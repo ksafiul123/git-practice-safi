@@ -18,3 +18,9 @@ This project demonstrates Git and GitHub fundamentals, including repository init
 - Python
 - Git
 - GitHub
+
+## How to Run
+
+Run the following command from the project root:
+
+    python src/main.py
